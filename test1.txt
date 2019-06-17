@@ -1,2 +1,4 @@
 this is a new test file
 Making changes to be saved in the commit
+
+Now merging to Master

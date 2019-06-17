@@ -1,1 +1,2 @@
 This file belongs to New_branch
+Now merging to master
